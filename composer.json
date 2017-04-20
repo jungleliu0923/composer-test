@@ -1,0 +1,16 @@
+{
+    "name": "jungleliu0923/composer-test",
+    "type": "library",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "liujun",
+            "email": "liujun@youzan.com"
+        }
+    ],
+    "require": {},
+   "autoload": {
+        "psr-4": {
+            "jungleliu0923\\composerTest\\": "src/"
+        }
+}
